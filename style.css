@@ -130,9 +130,9 @@ p.translation:hover {
 
 #foot {
     background-color: white;
-    height: 300px;
-    margin-top: 2rem;
-    padding: 5rem;
+    height: 400px;
+    margin-top: 1rem;
+    padding: 3rem;
 }
 
 #copy {
@@ -141,7 +141,7 @@ p.translation:hover {
 
 .bottom {
     position: relative;
-    top: 310px;
+    top: 100px;
 }
 
 .container {
